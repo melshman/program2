@@ -1,6 +1,9 @@
 ## program 2 JSON file
 ## edit from github origin
 ## edit from local repo
+## local repo edit - attempt pull request on master (so no merge)
+## local repo edit - attempt pull request on 1stbranch
+
 {"widget": {
     "debug": "on",
     "window": {
